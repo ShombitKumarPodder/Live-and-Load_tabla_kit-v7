@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<museScore version="4.70">
+  <percussionPanelColumns>8</percussionPanelColumns>
+  <Drum pitch="55">
+    <head>normal</head>
+    <noteheads>
+      <whole>noteheadWhole</whole>
+      <half>noteheadHalf</half>
+      <quarter>noteheadBlack</quarter>
+      <breve>noteheadDoubleWhole</breve>
+      </noteheads>
+    <line>5</line>
+    <voice>1</voice>
+    <name>ghe / घे</name>
+    <stem>2</stem>
+    <panelRow>1</panelRow>
+    <panelColumn>0</panelColumn>
+    </Drum>
+  <Drum pitch="57">
+    <head>cross</head>
+    <line>4</line>
+    <voice>1</voice>
+    <name>kat / कत</name>
+    <stem>2</stem>
+    <panelRow>1</panelRow>
+    <panelColumn>2</panelColumn>
+    </Drum>
+  <Drum pitch="59">
+    <head>normal</head>
+    <noteheads>
+      <whole>noteheadWhole</whole>
+      <half>noteheadHalf</half>
+      <quarter>noteheadBlack</quarter>
+      <breve>noteheadDoubleWhole</breve>
+      </noteheads>
+    <line>3</line>
+    <voice>1</voice>
+    <name>ge / गे</name>
+    <stem>2</stem>
+    <panelRow>1</panelRow>
+    <panelColumn>1</panelColumn>
+    </Drum>
+  <Drum pitch="75">
+    <head>plus</head>
+    <line>0</line>
+    <voice>0</voice>
+    <name>Tte / टे</name>
+    <stem>1</stem>
+    <panelRow>0</panelRow>
+    <panelColumn>7</panelColumn>
+    </Drum>
+  <Drum pitch="76">
+    <head>normal</head>
+    <line>1</line>
+    <voice>0</voice>
+    <name>Ta / ता</name>
+    <stem>1</stem>
+    <panelRow>0</panelRow>
+    <panelColumn>5</panelColumn>
+    </Drum>
+  <Drum pitch="77">
+    <head>cross</head>
+    <line>0</line>
+    <voice>0</voice>
+    <name>Ti / ति</name>
+    <stem>1</stem>
+    <panelRow>0</panelRow>
+    <panelColumn>6</panelColumn>
+    </Drum>
+  <Drum pitch="78">
+    <head>circled</head>
+    <line>0</line>
+    <voice>0</voice>
+    <name>tun / तुन</name>
+    <stem>1</stem>
+    <panelRow>0</panelRow>
+    <panelColumn>3</panelColumn>
+    </Drum>
+  <Drum pitch="79">
+    <head>normal</head>
+    <line>-1</line>
+    <voice>0</voice>
+    <name>Na / ना</name>
+    <stem>1</stem>
+    <panelRow>0</panelRow>
+    <panelColumn>4</panelColumn>
+    </Drum>
+  </museScore>
